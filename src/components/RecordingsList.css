@@ -1,0 +1,21 @@
+.recordings-section {
+    margin-top: 30px;
+}
+
+h2 {
+    color: #555;
+    font-size: 1.2em;
+    margin-bottom: 15px;
+}
+
+.recordings-list {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.empty-state {
+    text-align: center;
+    padding: 40px 20px;
+    color: #a0aec0;
+}
